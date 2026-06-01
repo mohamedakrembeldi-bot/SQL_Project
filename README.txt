@@ -1,4 +1,3 @@
-What You're Aiming For
 The objective of this project is to practice advanced SQL queries using a pre-defined database schema. This exercise focuses on querying, filtering, aggregating, and manipulating data based on real-world business scenarios. The provided schema models a commercial database that includes categories, customers, orders, employees, suppliers, and products. 
 
  
