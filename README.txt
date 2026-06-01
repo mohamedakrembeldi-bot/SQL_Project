@@ -25,6 +25,8 @@ UNITS_ON_ORDER: quantity ordered,
 UNAVAILABLE: 0 for available products and -1 otherwise
 
 Instructions:
+Execute the script Exucution_file.sql
+
 Write each of the following queries in SQL.
 
 Display in descending order of seniority the male employees whose net salary (salary + commission) is greater than or equal to 8000. The resulting table should include the following columns: Employee Number, First Name and Last Name, Age, and Seniority.
